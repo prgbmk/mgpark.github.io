@@ -1,7 +1,7 @@
 {
-  "version_name": "0.6.5",
-  "version_code": 29,
-  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.5",
-  "published_at": "2026-09-08T06:12:00Z",
-  "notes": "앱 내 업데이트 자동 확인, 업데이트 화면/대시보드 안내, 연결 진단 제목 대비 개선"
+  "version_name": "0.6.6",
+  "version_code": 30,
+  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.6",
+  "published_at": "2026-09-08T10:11:24Z",
+  "notes": "사용 기록 화면(24시간·7일·30일), 소비 패턴·주간 소진 예상 추가 및 설정 스위치 대비 개선"
 }
