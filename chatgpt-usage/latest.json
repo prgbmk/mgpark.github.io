@@ -1,7 +1,7 @@
 {
-  "version_name": "0.6.6",
-  "version_code": 30,
-  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.6",
-  "published_at": "2026-09-08T10:11:24Z",
-  "notes": "사용 기록 화면(24시간·7일·30일), 소비 패턴·주간 소진 예상 추가 및 설정 스위치 대비 개선"
+  "version_name": "0.6.9",
+  "version_code": 33,
+  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.9",
+  "published_at": "2026-09-08T22:04:23Z",
+  "notes": "Android 시스템 뒤로가기 동작을 화면 계층에 맞게 수정하고, 설정/사용 기록/진단/업데이트 화면의 뒤로가기를 안정화"
 }
