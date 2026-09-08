@@ -1,7 +1,7 @@
 {
-  "version_name": "0.6.9",
-  "version_code": 33,
-  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.9",
-  "published_at": "2026-09-08T22:04:23Z",
-  "notes": "Android 시스템 뒤로가기 동작을 화면 계층에 맞게 수정하고, 설정/사용 기록/진단/업데이트 화면의 뒤로가기를 안정화"
+  "version_name": "0.6.10",
+  "version_code": 34,
+  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.10",
+  "published_at": "2026-09-08T22:48:31Z",
+  "notes": "업데이트 메타데이터 지연 보호, 캐시 우회, 빌드 정보 표시 및 릴리스 메타데이터 검증 개선"
 }
