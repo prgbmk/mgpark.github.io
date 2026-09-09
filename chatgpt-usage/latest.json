@@ -1,7 +1,7 @@
 {
-  "version_name": "0.6.11",
-  "version_code": 35,
-  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.11",
-  "published_at": "2026-09-08T23:11:35Z",
-  "notes": "One UI 위젯 프리셋(1×1 간단·2×1 요약·4×2 상세) 추가 및 모든 위젯 동시 갱신 개선"
+  "version_name": "0.6.13",
+  "version_code": 37,
+  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.13",
+  "published_at": "2026-09-09T04:40:44Z",
+  "notes": "사용량 API 스키마 호환성 강화: 대체 필드명·문자열/숫자 타입·ISO/epoch 초기화 시각·부분 누락 응답을 안전하게 처리하고 호환성 Unit Test를 추가"
 }
