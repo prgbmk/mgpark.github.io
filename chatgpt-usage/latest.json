@@ -1,7 +1,7 @@
 {
-  "version_name": "0.6.14",
-  "version_code": 38,
-  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.14",
-  "published_at": "2026-09-10T08:18:44Z",
-  "notes": "인증 만료 자동 복구 및 재로그인 전환, 백그라운드 Worker 예외 격리, 안전한 동기화 오류 표시 개선"
+  "version_name": "0.6.15",
+  "version_code": 39,
+  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.15",
+  "published_at": "2026-09-10T12:39:10Z",
+  "notes": "전체 회귀 테스트 및 0.6.x 안정화 마무리: release 구조 회귀 검사와 공개 업데이트 메타데이터 검증 강화"
 }
