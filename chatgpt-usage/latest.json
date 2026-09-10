@@ -1,7 +1,7 @@
 {
-  "version_name": "0.6.13",
-  "version_code": 37,
-  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.13",
-  "published_at": "2026-09-09T04:40:44Z",
-  "notes": "사용량 API 스키마 호환성 강화: 대체 필드명·문자열/숫자 타입·ISO/epoch 초기화 시각·부분 누락 응답을 안전하게 처리하고 호환성 Unit Test를 추가"
+  "version_name": "0.6.14",
+  "version_code": 38,
+  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.14",
+  "published_at": "2026-09-10T08:18:44Z",
+  "notes": "인증 만료 자동 복구 및 재로그인 전환, 백그라운드 Worker 예외 격리, 안전한 동기화 오류 표시 개선"
 }
