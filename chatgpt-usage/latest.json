@@ -1,7 +1,7 @@
 {
-  "version_name": "0.6.15",
-  "version_code": 39,
-  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.6.15",
-  "published_at": "2026-09-10T12:39:10Z",
-  "notes": "전체 회귀 테스트 및 0.6.x 안정화 마무리: release 구조 회귀 검사와 공개 업데이트 메타데이터 검증 강화"
+  "version_name": "0.7.0",
+  "version_code": 40,
+  "release_url": "https://github.com/prgbmk/ChatGPT_UsageApp/releases/tag/v0.7.0",
+  "published_at": "2026-09-11T00:09:11Z",
+  "notes": "위젯 사용성 개선: 1×1/2×1에 마지막 사용량 갱신 시각 표시 및 지연/오래됨 상태 시각화"
 }
